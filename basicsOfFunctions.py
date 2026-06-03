@@ -12,7 +12,7 @@
 #         print("palindrome no.")
 #     else:
 #         print("not a palindrome no.")
-
+# 
 # palindrome_checker(111)
 # palindrome_checker(121)
 # palindrome_checker(111)

@@ -13,11 +13,11 @@
 #     print(a-b-c)
 # subtraction(a=1,c=3,b=3)
 
-# #data structures
-#list
+# # #data structures
+# #list
 # a=[23,4,5,6]
 # a[2]=3
-# print(a[2])
+# print(a)
 # mutable and ordered nature of list
 # a=[1,1,1,1,1]
 #duplicate nature of list.

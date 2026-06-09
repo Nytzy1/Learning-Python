@@ -9,7 +9,7 @@
 
 # how to create a new key value pair......
 # a[50]=60
-# print(a)
+# print(a)                  #directly stored
 #updating a value
 # a[10]=100
 # print(a)

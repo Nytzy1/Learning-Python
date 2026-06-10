@@ -18,7 +18,7 @@
 # for i in d1:
 #     s=s+d1[i]
 # print(s)
-# count the frequency of each element in a list using a dictionary.
+# count the frequency of each element in a list using a dictionary
 # l=["a","b","a","c","b","a"]
 # d={}
 # for i in l:
@@ -37,6 +37,7 @@
 #     else:
 #         d1[i]=d2[i]
 # print(d1)
+
 
 
 
